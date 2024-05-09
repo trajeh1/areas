@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135293691515",
+    "project_id": "protectedarea-cf68e",
+    "storage_bucket": "protectedarea-cf68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135293691515:android:2e9413ca0a02125dc4e4de",
+        "android_client_info": {
+          "package_name": "com.mycompany.protectedarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPH7FCkPgi9J5f5p4l-Nq1laA9tJBw7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

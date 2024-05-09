@@ -1,0 +1,3 @@
+NSLocationWhenInUseUsageDescription = "This app needs access to your location to provide our services effectively.";
+PermissionGroupNotification = "This app needs permission to send notifications to inform you about important updates and news. ";
+NSPhotoLibraryUsageDescription = "his app needs access to your photo album to upload and share photos. ";

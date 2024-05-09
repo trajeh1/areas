@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Island",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "location",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "area",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "violation",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Category",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "maxViolation",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
